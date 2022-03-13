@@ -1,8 +1,8 @@
-# QOSF app Mar 2022 - Task 4
+# QOSF app Mar 2022 - Task 4
 
 This code transpiles a qasm3 file with simple gates into a qasm3 file with gates in the Clifford+T group, and reduces the number of gates used. 
 
-### Run locally
+### Run locally
 
 ```
 git clone <url>
@@ -20,7 +20,7 @@ Vatsal Kanoria
 Harshita Sharma 
 Shreya Khatkar
 
-### References
+### References
 
 We used the following references for decomposing the gates into the Clifford+T basis.
 
